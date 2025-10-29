@@ -1,4 +1,1 @@
-console.log("This is a test file for SCM input handling.");
-console.log("This is a test file for SCM input handling.1");
-console.log("This is a test file for SCM input handling.2");
-console.log("hello xiaojian ")
+console.log("功能一开发完成啦啦啦啦");
